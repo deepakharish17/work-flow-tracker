@@ -52,6 +52,7 @@ CSS - Styling
 JavaScript - Interactivity
 
 screenshots:
+
 ![Screenshot (86)](https://github.com/user-attachments/assets/9d112913-a14b-4b7f-967b-3a8398d13a0c
 ![Screenshot (87)](https://github.com/user-attachments/assets/f3835ec0-e286-49d6-ad41-98865c05111d)
 ![Screenshot (88)](https://github.com/user-attachments/assets/b311c50f-3926-41a5-9760-77aa2ec35afd)
